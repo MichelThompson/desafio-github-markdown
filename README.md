@@ -5,8 +5,6 @@ Desafio GitHub - Curso da plataforma DIO.
 
 # 🌟 A Grande Batalha dos Irmãos: Mario vs. Luigi 🌟
 
-![Mario vs Luigi](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
 ## Introdução
 
 Em um mundo onde os cogumelos crescem gigantes e as tartarugas andam sobre duas patas, Mario e Luigi, os famosos irmãos encanadores, se encontraram em um duelo épico. Tudo começou com uma pequena disputa que rapidamente se transformou em uma batalha lendária no Pox, um ringue de luta para os maiores heróis do Reino do Cogumelo. **Pox (Power of Xtreme)** é um torneio onde somente os mais fortes e habilidosos combatentes podem competir.
@@ -22,8 +20,6 @@ Mario e Luigi sempre foram inseparáveis. Juntos, eles enfrentaram Bowser, salva
 Certo dia, Luigi, sempre à sombra de seu irmão mais velho, decidiu que era hora de provar seu valor. Ele desafiou Mario para uma luta no Pox, acreditando que vencer seu irmão seria a chave para sair dessa sombra.
 
 ## O Confronto no Pox
-
-![Pox Arena](https://media.giphy.com/media/xT4uQulxzV39haRFjG/giphy.gif)
 
 ### O Ringue
 
@@ -46,8 +42,6 @@ Mario saiu vitorioso, mas não sem antes ajudar seu irmão a se levantar. Ele sa
 ### A Reconciliação
 
 Após a batalha, Mario e Luigi se abraçaram, suas diferenças esquecidas. O Reino do Cogumelo comemorou não apenas a vitória de Mario, mas a união dos irmãos que, juntos, eram invencíveis.
-
-![Mario and Luigi](https://media.giphy.com/media/3o85xGRWMlHdGB1vMs/giphy.gif)
 
 ---
 
