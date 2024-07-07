@@ -51,7 +51,5 @@ Desde aquele dia, Mario e Luigi continuaram suas aventuras, agora mais unidos do
 
 _E que venham novas aventuras!_
 
-![Mario and Luigi Adventures](https://media.giphy.com/media/xTiTnz6EzwM2p3nJ3i/giphy.gif)
-
 
 ![image](https://github.com/MichelThompson/desafio-github-markdown/assets/170564731/c1571a01-4c0f-4d9b-8181-6b341fa45b04)
